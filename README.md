@@ -30,12 +30,12 @@ To utilize our face recognition system:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/face-recognition-system.git
+   git clone https://github.com/rajkumarmaity23/Real-Time-Face-Recognition-System.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```
-   cd face-recognition-system
+   cd Real-Time-Face-Recognition-System
    ```
 
 3. **Install Dependencies:**
@@ -45,10 +45,8 @@ To utilize our face recognition system:
 
 4. **Run the Application:**
    ```
-   python app.py
+   python Real_time_image_pred_Final.py
    ```
-
-   Access the application through your web browser at `http://localhost:5000` for seamless real-time face recognition.
 
 ## Get Involved
 
@@ -60,4 +58,4 @@ We extend our gratitude to the open-source community, researchers, and developer
 
 ---
 
-Thank you for exploring our Real-time Face Recognition System. Your interest and involvement are crucial as we strive to make technology more intelligent, accessible, and secure. Let's continue to innovate and shape the future of face recognition technology! 🚀👤
+Thank you for exploring our Real-time Face Recognition System. Your interest and involvement are crucial as we strive to make technology more intelligent, accessible, and secure. Let's continue to innovate and shape the future of face recognition technology!
