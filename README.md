@@ -45,7 +45,7 @@ To utilize our face recognition system:
 
 4. **Run the Application:**
    ```
-   python real_time_image_pred.py
+   python Real_time_image_pred.py
    ```
 
 ## Get Involved
