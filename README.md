@@ -1,4 +1,3 @@
-# Python_CNN_P1
 # Real-time Face Recognition System using Transfer Learning
 
 Welcome to our **Real-time Face Recognition System** project, where cutting-edge technology meets practical application. This project stands at the intersection of computer vision, machine learning, and real-time applications, aiming to provide efficient and accurate face recognition capabilities.
